@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "craiyon_211621_happy_coding.png"
+  avatar           : "profile.png"
   name             : "luihing2004"
   pronouns         : # example: "she/her"  
   bio              : "Work hard, play hard."
   location         : "Earth"
   employer         : "Fuzhou University"
-  uri              : https://luihing2004.github.io
+  uri              : "https://luihing2004.github.io"
   email            : "luihing2004@gmail.com" 
 
   # Academic websites
